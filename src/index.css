@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* cor personalizada pro tailwind (da pra usar bg-pokedex, text-pokedex...) */
+@theme {
+  --color-pokedex: #dc2626;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
